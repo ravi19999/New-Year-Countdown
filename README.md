@@ -11,3 +11,4 @@ Select a letter to figure out a hidden word in a set amount of chances
 - Show notification when select a letter twice
 - Show popup on win or lose
 - Play again button to reset game
+- Hosted at https://ravi19999.github.io/New-Year-Countdown/
